@@ -11,10 +11,15 @@ ML_from_scratch/
 │
 ├── Week_1/
 │   ├── day1.py
+│   ├── day2.py
 │   ├── practice1.py
-│   └── Day1.md
+│   ├── conversion_practice.py
+│   ├── arithmetic_practice.py
+│   ├── Day1.md
+│   └── Day2.md
 │
 ├── Projects/
+│   └── bmi_calculator.py
 │
 └── README.md
 ```
@@ -72,7 +77,6 @@ Small projects built while applying newly learned concepts.
 - Learned type conversion using `str()`
 
 **Programs Completed**
-- Hello World
 - Personal Information
 - Basic Python Practice
 
@@ -81,6 +85,38 @@ Small projects built while applying newly learned concepts.
 - `practice1.py`
 - `Day1.md`
 - `README.md`
+
+
+#### Day 2 — User Input & Arithmetic ✅
+
+**Topics Covered**
+- Learned `input()`
+- Learned type conversion using `int()` and `float()`
+- Reviewed `str()`
+- Understood that `input()` always returns a string
+- Learned arithmetic operators (`+`, `-`, `*`, `/`, `//`, `%`, `**`)
+- Learned the difference between string concatenation and numerical addition
+- Learned to use `round()` to display decimal values neatly
+
+**Programs Completed**
+- User Information
+- Type Conversion Practice
+- Arithmetic Practice
+- BMI Calculator
+
+**Files Added**
+- `day2.py`
+- `type_conversion.py`
+- `arithmetic_practice.py`
+- `bmi_calculator.py`
+- `Day2.md`
+
+**Key Learnings**
+- `input()` always returns a string.
+- Use `int()` or `float()` before performing calculations.
+- Strings and integers cannot be concatenated directly.
+- Different arithmetic operators have different purposes.
+- Built the first interactive Python project using user input and calculations.
 
 ---
 
