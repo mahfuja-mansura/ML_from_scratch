@@ -10,13 +10,16 @@ A collection of my Python practice programs, notes, and projects as I build the 
 ML_from_scratch/
 │
 ├── Week_1/
+│   ├── arithmetic_practice.py
+│   ├── conversion_practice.py
+│   ├── Day01.md
 │   ├── day1.py
+│   ├── Day02.md
+│   ├── day2.py
+│   ├── Day03.md
 │   ├── day2.py
 │   ├── practice1.py
-│   ├── conversion_practice.py
-│   ├── arithmetic_practice.py
-│   ├── Day1.md
-│   └── Day2.md
+│   └── type_conversation.py
 │
 ├── Projects/
 │   └── bmi_calculator.py
@@ -118,6 +121,30 @@ Small projects built while applying newly learned concepts.
 - Different arithmetic operators have different purposes.
 - Built the first interactive Python project using user input and calculations.
 
+
+#### Day 3 — Conditional Statements ✅
+
+**Topics Covered**
+- Learned Boolean values (`True`, `False`)
+- Learned comparison operators (`==`, `!=`, `>`, `<`, `>=`, `<=`)
+- Learned `if`, `elif`, and `else`
+- Learned nested `if` statements
+- Learned logical operators (`and`, `or`, `not`)
+- Practiced boundary testing
+
+**Programs Completed**
+- Positive, Negative, or Zero Checker
+- Even or Odd Checker
+- Largest of Two Numbers
+- Student Discount Eligibility Checker
+- BMI Calculator upgrade
+
+**Files Added**
+- `day3.py`
+- `Day3.md`
+
+**Project Updated**
+- `Projects/Project1_BMI_Calc.py`
 ---
 
 ## License
