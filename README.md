@@ -20,11 +20,14 @@ ML_from_scratch/
 │   ├── day3.py
 │   ├── Day04.md
 │   ├── day4.py
+│   ├── Day05.md
 │   ├── practice1.py
 │   └── type_conversation.py
 │
 ├── Projects/
-│   └── Project1_BMI_Calc.py
+│   ├── Project1_BMI_Calc.py
+│   ├── Project2_Simple_Calc.py
+│   └── Project3_Simple_calc.py
 │
 └── README.md
 ```
@@ -180,6 +183,34 @@ Small projects built while applying newly learned concepts.
 - Used `continue` to skip an iteration
 - Used nested loops to create patterns
 - Used `+=` to accumulate values inside a loop
+
+#### Day 5 — Functions 🧩
+
+**Topics Covered**
+- Learned how to define functions using `def`
+- Learned how to call functions
+- Learned parameters and arguments
+- Practiced functions with multiple parameters
+- Learned how to use `return`
+- Learned the difference between `print()` and `return`
+- Learned default parameters
+- Used functions with conditional statements
+- Used functions with user input
+
+**Programs Completed**
+- Greeting Function
+- Introduction Function
+- Even/Odd Checker
+- Simple Calculator
+
+**Project Completed**
+- Simple Calculator with addition, subtraction, multiplication, and division
+- Added invalid choice handling
+- Added division-by-zero handling
+
+**Files Added**
+- `Day05.md`
+- `Project3_Simple_calc.py`
 
 ## License
 
