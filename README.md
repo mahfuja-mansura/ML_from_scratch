@@ -21,13 +21,17 @@ ML_from_scratch/
 │   ├── Day04.md
 │   ├── day4.py
 │   ├── Day05.md
+│   ├── day5.py
+│   ├── Day06.md
+│   ├── day6.py
 │   ├── practice1.py
 │   └── type_conversation.py
 │
 ├── Projects/
 │   ├── Project1_BMI_Calc.py
-│   ├── Project2_Simple_Calc.py
-│   └── Project3_Simple_calc.py
+│   ├── Project2_Number_guessing_game.py
+│   ├── Project3_Simple_calc.py
+│   └── Project4_Student_Grade_Analyzer.py
 │
 └── README.md
 ```
@@ -211,6 +215,22 @@ Small projects built while applying newly learned concepts.
 **Files Added**
 - `Day05.md`
 - `Project3_Simple_calc.py`
+
+#### Day 6 — Lists 📋
+## Current Topics
+
+- Python environment setup
+- Variables
+- Data types
+- `print()`
+- String concatenation
+- Type conversion (`str()`)
+- User input (`input()`)
+- Arithmetic operators
+- Conditional statements
+- Loops
+- Functions
+- Lists
 
 ## License
 
