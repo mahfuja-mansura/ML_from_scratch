@@ -1,5 +1,7 @@
 #### Day 7 — Tuples & Dictionaries 🗂️
 
+**Date: 13.08.2026**
+
 **Topics Covered**
 
 - Learned tuples and tuple indexing
@@ -25,11 +27,6 @@
 - Stored grades inside a dictionary
 - Calculated total, average, highest, and lowest grades
 
-**Files Added**
-
-- `Day07.md`
-- `day7.py`
-- `Project5_Student_Information_System.py`
 
 **Key Learnings**
 
